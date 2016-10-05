@@ -1,0 +1,21 @@
+﻿Todo:
+
+//Mechanism to create board with cells
+//Application of conway's rules
+//Evaluation and creation of next generation
+//Show the no of generation
+Options:
+	Seed as probability of cell life in the 1st generation
+	//Option to choose the dimensions of board
+	//Button to create new board
+	//Button to move to next generation
+	//Button to keep simulating the next generations
+	//Variation in speed of simulation
+	//Zoom in and zoom out the board
+	//Start & Stop simuation
+Custom:
+	//Board modification by touching a tile
+	//Gosper's Glider Gun
+	More special cases
+
+A Github-Page for the project?
